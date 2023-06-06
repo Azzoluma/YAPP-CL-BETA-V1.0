@@ -25,4 +25,5 @@ M2x3mm OD 3.5mm Heat sink inserts
 <img src="https://user-images.githubusercontent.com/132520137/236590256-be258728-d882-4ef1-9caf-7d97f98ce2d9.png" width="500" /> 
 
 
-[YAPP Docs.pdf](https://github.com/Azzoluma/YAPP-CL-BETA-V1.0/files/11668271/YAPP.Docs.pdf)
+
+![Screenshot 2023-06-06 122438](https://github.com/Azzoluma/YAPP-CL-BETA-V1.0/assets/132520137/a6803661-a5dc-4fd6-a726-c46f52b3d402)
