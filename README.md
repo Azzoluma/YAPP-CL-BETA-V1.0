@@ -14,6 +14,8 @@ Currently only supporting Orbiter 2.0 and Vz-HextrudORT with Phaetus Rapido and 
 ![Screenshot 2023-06-06 122438](https://github.com/Azzoluma/YAPP-CL-BETA-V1.0/assets/132520137/a6803661-a5dc-4fd6-a726-c46f52b3d402)
 ![Screenshot 2023-06-06 123113](https://github.com/Azzoluma/YAPP-CL-BETA-V1.0/assets/132520137/571b080c-d691-4226-91df-cbd4c315835d)
 ![Screenshot 2023-06-06 123238](https://github.com/Azzoluma/YAPP-CL-BETA-V1.0/assets/132520137/f77c24c6-7e69-4e16-8081-774c67f8b2f9)
+![BOM1](https://github.com/Azzoluma/YAPP-CL-BETA-V1.0/assets/132520137/b8023918-911d-4576-82f5-c9fba5fe676a)
+![BOM2](https://github.com/Azzoluma/YAPP-CL-BETA-V1.0/assets/132520137/7fb29808-408c-44ab-926a-911449116572)
 ![Screenshot 2023-06-06 123300](https://github.com/Azzoluma/YAPP-CL-BETA-V1.0/assets/132520137/e5c8254b-b0ab-4055-94fc-f4b23b056a0e)
 ![Screenshot 2023-06-05 165244](https://github.com/Azzoluma/YAPP-CL-BETA-V1.0/assets/132520137/a9d517f0-53d8-4e08-b6a7-12ddde643f70)
 ![Post proccesing](https://github.com/Azzoluma/YAPP-CL-BETA-V1.0/assets/132520137/1080fc00-bcd3-4ad2-a865-eb3e004cc08f)
