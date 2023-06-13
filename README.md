@@ -6,7 +6,8 @@ Currently only supporting Orbiter 2.0 and Vz-HextrudORT with Phaetus Rapido and 
 *Cap Head screws are not all the correct length in the assembly, only use as a guide until further notice.
 
 
-<img src="https://user-images.githubusercontent.com/132520137/236590256-be258728-d882-4ef1-9caf-7d97f98ce2d9.png" width="500" /> ![YAPP Outline](https://github.com/Azzoluma/YAPP-CL-BETA-V1.0/assets/132520137/af780637-54e2-42fa-9dda-3b15bb5c00f8)
+<img src="https://user-images.githubusercontent.com/132520137/236590256-be258728-d882-4ef1-9caf-7d97f98ce2d9.png" width="500" /> ![YAPP Outline](https://github.com/Azzoluma/YAPP-CL-BETA-V1.0/assets/132520137/ddb1086b-3c34-4cbf-b36e-a24c0e9b9a68)
+
 
 
 
