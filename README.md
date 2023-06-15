@@ -11,6 +11,7 @@ Currently only supporting Orbiter 2.0 and Vz-HextrudORT with Phaetus Rapido and 
 
 
 ![GeneralIntroText](https://github.com/Azzoluma/YAPP-CL-BETA-V1.0/assets/132520137/f9605fca-6753-4fc7-9d02-192f075650e6)
+![GeneralIntroKeyPoints](https://github.com/Azzoluma/YAPP-CL-BETA-V1.0/assets/132520137/a83e4832-09ff-4b2f-9bdc-4fe194c74a33)
 
 
 
